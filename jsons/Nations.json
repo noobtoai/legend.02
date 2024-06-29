@@ -1,3 +1,4 @@
+
 [
 	//Spectator
 	{
@@ -282,7 +283,7 @@
 			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"]
 	},
 	{
-		"name": "Japan",
+		"name": "Eiyuu",
 		"leaderName": "Oda Nobunaga",
 		"adjective": ["Japanese"],
 		"startBias": ["Coast"],
@@ -301,7 +302,34 @@
 		"innerColor": [185,0,0],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Bushido",
-		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>"],
+		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>",
+			"Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [5000]% faster",
+			"[-99]% unhappiness from the number of cities",
+			"[-50]% construction time for [All] improvements","No movement cost to pillage <for [All] units>",
+			"[+300]% Strength <for [All] units> ",
+			"[+10 Gold, +20 Production, +10 Science, +5 Culture] from [Mountain] tiles [in all cities]",
+			"[+180]% City Strength from defensive buildings",		
+			"[+6] Sight <for [All] units>",
+			"[-120]% Unhappiness from [Population] [in all cities]",
+			"[20] HP when healing <for [All] units>",
+			"[+10 Gold] from all [Science] buildings",
+			"[+10 Science] from all [Science] buildings",
+			"Damage is ignored when determining unit Strength <for [All] units>",
+			"[+50]% Strength <vs [City-states]>",
+			"[+10]% Golden Age length",
+			"City-State territory always counts as friendly territory",
+			"[+5] Movement <for [All] units>",
+			"[-60]% maintenance on road & railroads",
+			"[+185]% [Production] [in all cities]",
+			"[+2 Production] per [1] population [in this city]",
+			"[+1 Gold] per [1] population [in this city]",
+			"[+8 Science] per [1] population [in this city]",
+			"[+3 Culture] per [1] population [in this city]",
+			"[+1 Food] per [1] population [in this city]",
+			"[+11 Food] per [10] population [in this city]",
+			"New [Military] units start with [100] Experience [in all cities]",
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"
+		],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
