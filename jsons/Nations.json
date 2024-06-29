@@ -5,6 +5,72 @@
 		"outerColor": [255,255,255]
 //		"innerColor": [255,255,255]
 	},
+	{
+		"name": "Eiyuu",
+		"leaderName": "Bell",
+		"startIntroPart1": "I won't die",
+		"startIntroPart2": "Never be tamed",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Stay away",
+		"hateHello": "Get out",
+
+		"tradeRequest": "Give me that thing",
+
+		"outerColor": [217,153,163],
+		"innerColor": [28,120,25],
+
+		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [5000]% faster",
+			"[-99]% unhappiness from the number of cities",
+			"[-50]% construction time for [All] improvements","No movement cost to pillage <for [All] units>",
+			"[+300]% Strength <for [All] units> ",
+			"[+10 Gold, +20 Production, +10 Science, +5 Culture] from [Mountain] tiles [in all cities]",
+			"[+180]% City Strength from defensive buildings",		
+			"[+6] Sight <for [All] units>",
+			"[-120]% Unhappiness from [Population] [in all cities]",
+			"[20] HP when healing <for [All] units>",
+			"[+10 Gold] from all [Science] buildings",
+			"[+10 Science] from all [Science] buildings",
+			"Damage is ignored when determining unit Strength <for [All] units>",
+			"[+50]% Strength <vs [City-states]>",
+			"[+10]% Golden Age length",
+			"City-State territory always counts as friendly territory",
+			"[+5] Movement <for [All] units>",
+			"[-60]% maintenance on road & railroads",
+			"[+185]% [Production] [in all cities]",
+			"[+2 Production] per [1] population [in this city]",
+			"[+1 Gold] per [1] population [in this city]",
+			"[+8 Science] per [1] population [in this city]",
+			"[+3 Culture] per [1] population [in this city]",
+			"[+1 Food] per [1] population [in this city]",
+			"[+11 Food] per [10] population [in this city]",
+			"New [Military] units start with [100] Experience [in all cities]",
+			"[All] units gain the [Breath] promotion",
+			"[All] units gain the [Bersker] promotion",
+			"[All] units gain the [Ninja] promotion",
+			"[All] units gain the [Atomic Revenger] promotion",
+			"[All] units gain the [Bushido] promotion",
+			"[All] units gain the [FireGod] promotion",
+			"[All] units gain the [LifeGod] promotion",
+			"[All] units gain the [Eat the Living] promotion",
+			"[All] units gain the [Hard to Kill Twice] promotion",
+			"Gain [30] [Production] <in cities with at least [3] [Population]> ",
+			"Notified of new Barbarian encampments",
+			"Defense bonus when embarked <for [All] units>", 
+			"Cities are razed [100] times as fast",
+			"[+3] Movement <for [All} units>",
+			"[+10] Movement <in [Water] tiles>",
+			"[+120]% Production when constructing [All] wonders [in all cities]",
+			"[+1 Production] from every [Strategic resource]","Double quantity of [Aluminum] produced",
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"
+		],
+		"cities": ["1","2","3","4","5","6","7","8","9"]
+		
+	},
 	
 	{
 		//nations
